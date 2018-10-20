@@ -14,6 +14,10 @@ The repo contains code samples for the basic syntax
   ``` 
   $ py
 
+  Or: on Unix/Mac
+
+  $ python3 
+  
   Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
   Type "help", "copyright", "credits" or "license" for more information.
   
@@ -22,4 +26,16 @@ The repo contains code samples for the basic syntax
   # Type exit() to leave the prompt
   >>> exit()
   ```
+
+### Chapters
+
+- [01-DataTypes](/Chapters/01-DataTypes)  
+    - [0101-Numbers.md](/Chapters/01-DataTypes/0101-Numbers.md)  
+    - [0102-Operators.md](/Chapters/01-DataTypes/0102-Operators.md)  
+    - [0103-Variables.md](/Chapters/01-DataTypes/0103-Variables.md)  
+    - [0104-If-Else.md](/Chapters/01-DataTypes/0104-If-Else.md)  
+    - [0105-while.md](/Chapters/01-DataTypes/0105-while.md)  
+    - [0106-for.md](/Chapters/01-DataTypes/0106-for.md)  
+
+&copy; 2018 CodeWizardAcademy, Inc.
 
